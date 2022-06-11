@@ -1,9 +1,10 @@
-package com.sriyank.globotour
+package com.example.globaltour
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
+import com.example.globaltour.R
 import com.google.android.material.appbar.MaterialToolbar
 
 
