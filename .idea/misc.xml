@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/layout/activity_main_drawer_items.xml" value="0.1203125" />
         <entry key="app/src/main/res/layout/fragment_city_list.xml" value="0.11927083333333334" />
         <entry key="app/src/main/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/list_item_city.xml" value="0.1203125" />
         <entry key="app/src/main/res/layout/nav_header.xml" value="0.1203125" />
       </map>
     </option>
